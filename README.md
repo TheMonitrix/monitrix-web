@@ -1,6 +1,6 @@
-# Contributing a Blog to the SigNoz Repository
+# Contributing a Blog to the Monitrix Repository
 
-We appreciate your interest in contributing to the SigNoz blog! Follow the steps below to create and submit your blog post.
+We appreciate your interest in contributing to the Monitrix blog! Follow the steps below to create and submit your blog post.
 
 ## Step 1: Fork the Repository
 
@@ -61,7 +61,7 @@ It's good practice to create a new branch for your changes. This helps in organi
     cd data/blog
     ```
     
-2. Create a new `.mdx` file. The file name should correspond to the URL of the blog post. For example, if your blog post URL is `https://signoz.io/blog/opentelemetry-spring-boot/`, the file name should be `opentelemetry-spring-boot.mdx`.
+2. Create a new `.mdx` file. The file name should correspond to the URL of the blog post. For example, if your blog post URL is `https://Monitrix.io/blog/opentelemetry-spring-boot/`, the file name should be `opentelemetry-spring-boot.mdx`.
   
 3. Add the content for your blog post in the `.mdx` file. Refer to previous blog posts in the `data/blog` directory for the format. Ensure your file includes the following:
     - **Cover Image**: Add a relevant cover image for your blog post.
@@ -166,7 +166,7 @@ Your pull request will be reviewed, and if everything looks good, it will be mer
 - **Cover Image and Metadata**: Ensure that you include a relevant cover image and all necessary metadata to make your blog post complete and SEO-friendly.
 - **Images**: Make sure to place your images in the correct month folder under `public/img/blog`.
 
-If you have any questions or need further assistance, feel free to reach out to the SigNoz team.
+If you have any questions or need further assistance, feel free to reach out to the Monitrix team.
 
 ---
 
